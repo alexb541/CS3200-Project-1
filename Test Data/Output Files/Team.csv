@@ -1,0 +1,181 @@
+teamNumber,teamName,rookieYear,pointsLevel,city,state,country
+20,The Rocketeers,1997,1,Clifton Park,New York,USA
+27,Team RUSH,1997,4,Clarkston,Michigan,USA
+48,Team E.L.I.T.E.,1998,,Warren,Ohio,USA
+59,RamTech,1998,9,Miami,Florida,USA
+63,McDowell Robotics Team 63,1998,,Erie,Pennsylvania,USA
+117,Steel Dragons,1999,1,Pittsburgh,Pennsylvania,USA
+120,Youth Tech Academy Red Dragons,1999,,Cleveland,Ohio,USA
+128,The Botcats,1999,,Columbus,Ohio,USA
+144,Operation Orange,1999,9,Hamilton,Ohio,USA
+191,X-CATS,2000,,Rochester,New York,USA
+229,Division By Zero,2000,9,Potsdam,New York,USA
+250,The Dynamos,2000,8,Colonie,New York,USA
+271,Mechanical Marauders,2000,1,Bay Shore,New York,USA
+291,CIA - Creativity In Action,2000,3,Erie,Pennsylvania,USA
+325,Respawn Robotics,2000,6,Hamilton,Ohio,USA
+334,TechKnights,2000,,Brooklyn,New York,USA
+340,G.R.R. (Greater Rochester Robotics),2001,,Churchville,New York,USA
+378,The Circuit Stompers,2001,2,Newfane,New York,USA
+379,The RoboCats,2001,,Girard,Ohio,USA
+424,Rust Belt Robotics,2001,,Buffalo,New York,USA
+451,Cat Attack Robotics,2001,10,Maumee,Ohio,USA
+533,The PSIcotics,2001,,Lindenhurst,New York,USA
+564,Longwood RoboLions,2002,,Middle Island,New York,USA
+578,Fairport Robotics,2002,2,Fairport,New York,USA
+639,Code Red Robotics,2002,7,Ithaca,New York,USA
+677,Murphy's Outlaws,2002,,Columbus,Ohio,USA
+694,StuyPulse,2002,,New York,New York,USA
+695,Bison Robotics,2002,6,Beachwood,Ohio,USA
+709,Femme Tech Fatale,2002,2,Bryn Mawr,Pennsylvania,USA
+870,TEAM  R. I. C. E.,2003,,Southold,New York,USA
+930,Mukwonago BEARs,2003,,Mukwonago,Wisconsin,USA
+1126,SPARX,2003,,Webster,New York,USA
+1308,Wildcat Robotics,2004,,Cleveland,Ohio,USA
+1405,Finney Falcons,2004,,Penfield,New York,USA
+1450,XQ Robotix Team 1450,2004,,Rochester,New York,USA
+1468,Hicksville J-Birds,2005,,Hicksville,New York,USA
+1493,Falcons,2005,6,Albany,New York,USA
+1507,Warlocks,2005,,Lockport,New York,USA
+1511,Rolling Thunder,2005,5,Penfield,New York,USA
+1518,Raider Robotics,2005,2,Palmyra,New York,USA
+1551,The Grapes of Wrath,2005,3,Naples,New York,USA
+1559,Devil Tech,2005,4,Victor,New York,USA
+1585,Scitobor Robotics,2005,,Shortsville,New York,USA
+1591,Greece Gladiators,2005,9,Rochester,New York,USA
+1708,AMP'D Robotics,2006,,McKeesport,Pennsylvania,USA
+1781,Lindblom Electric Eagles,2006,1,Chicago,Illinois,USA
+1787,The Flying Circuits,2006,,Pepper Pike,Ohio,USA
+2010,The Lightning Bots,2007,,Warren,Ohio,USA
+2013,Cybergnomes,2007,5,New Lowell,Ontario,Canada
+2051,The Beattie Bulldogs,2007,,Allison Park,Pennsylvania,USA
+2053,Southern Tier Robotics,2007,10,Vestal,New York,USA
+2095,Direct Current,2007,6,Newtown Square,Pennsylvania,USA
+2172,Steel Unit-E,2007,,Lakewood,Ohio,USA
+2228,CougarTech,2008,8,Honeoye Falls,New York,USA
+2234,Alternating Current,2008,,Newtown Square,Pennsylvania,USA
+2252,The Mavericks,2008,,Milan,Ohio,USA
+2340,Mercy Robotics-Xcentrics,2008,9,Rochester,New York,USA
+2399,The Fighting Unicorns,2008,,Shaker Heights,Ohio,USA
+2603,Steel Stingers,2008,10,Medina,Ohio,USA
+2614,Mountaineer Area RoboticS (MARS),2008,4,Morgantown,West Virginia,USA
+2632,SteeleBots,2009,3,Amherst,Ohio,USA
+2638,Rebel Robotics,2009,2,Great Neck,New York,USA
+2641,Pittsburgh Central Catholic Robotics,2009,2,Pittsburgh,Pennsylvania,USA
+2656,Quasics,2009,,Monroeville,Pennsylvania,USA
+2783,Engineers of Tomorrow,2009,,La Grange,Kentucky,USA
+2791,Shaker Robotics,2009,10,Latham,New York,USA
+2872,CyberCats,2009,,Old Westbury,New York,USA
+3003,TAN(X),2010,8,Canandaigua,New York,USA
+3004,Bx Quixote,2010,9,Bronx,New York,USA
+3015,Ranger Robotics,2010,1,Spencerport,New York,USA
+3044,Team 0xBE4,2010,2,Ballston Spa,New York,USA
+3117,Harfangs,2010,9,Sherbrooke,Québec,Canada
+3138,Innovators Robotics,2010,6,Englewood,Ohio,USA
+3171,HURRICANES,2010,,Westhampton Beach,New York,USA
+3173,IgKnighters,2010,8,Rochester,New York,USA
+3181,Pittsford Panthers,2010,,Pittsford,New York,USA
+3193,Falco Tech,2010,5,Austintown,Ohio,USA
+3201,Ross Rambotics,2010,3,Hamilton,Ohio,USA
+3260,SHARP,2010,2,Pittsburgh,Pennsylvania,USA
+3324,The Metrobots,2010,5,Columbus,Ohio,USA
+3360,Hyperion,2011,9,Sherbrooke,Québec,Canada
+3484,Short Circuit,2011,3,Marysville,Ohio,USA
+3492,Putnam Area Robotics Team (P.A.R.T.s),2011,3,Winfield,West Virginia,USA
+3504,Girls of Steel,2011,9,Pittsburgh,Pennsylvania,USA
+3539,Byting Bulldogs,2011,10,Romeo,Michigan,USA
+3550,Robotronix,2011,1,Lasalle,Québec,Canada
+3777,Bean City Bots,2012,,Lima,Ohio,USA
+3799,Electric Fire,2012,5,Elmira,New York,USA
+3814,PiBotics,2012,,Florence,Kentucky,USA
+3838,Roc City Robotix,2012,,Rochester,New York,USA
+3951,SUITS,2012,2,Honeoye,New York,USA
+3954,4-H Electrotechs,2012,,Emlenton,Pennsylvania,USA
+3984,Topper Robotics,2012,2,Johnson City,Tennessee,USA
+3990,Tech for Kids,2012,9,Montreal,Québec,Canada
+4027,Centre Punch,2012,3,State College,Pennsylvania,USA
+4028,The Beak Squad,2012,9,Cincinnati,Ohio,USA
+4050,Biohazard,2012,,Chambersburg,Pennsylvania,USA
+4085,Technical Difficulties,2012,10,Reynoldsburg,Ohio,USA
+4093,Hardwired,2012,4,Orleans County,New York,USA
+4121,Viking  Robotics,2012,4,North Canton,Ohio,USA
+4122,Ossining OBOTS,2012,7,Ossining,New York,USA
+4145,WorBots,2013,6,Worthington,Ohio,USA
+4150,FRobotics,2013,9,Murrysville,Pennsylvania,USA
+4269,CardinalBots,2013,4,Columbus,Ohio,USA
+4327,Q Branch,2013,,Battle Creek,Michigan,USA
+4458,Infernobotix,2013,10,Center Moriches,New York,USA
+4467,Titanium Titans,2013,10,Canonsburg,Pennsylvania,USA
+4504,B. C. Robotics,2014,,Maryville,Tennessee,USA
+4601,Circuit Birds,2014,,Canfield,Ohio,USA
+4611,OZone,2015,4,Delaware,Ohio,USA
+4930,Electric Mayhem,2016,,Buffalo,New York,USA
+4991,Horsepower,2016,,Bridgeville,Pennsylvania,USA
+5413,Stellar Robotics,2017,9,Shelby,Ohio,USA
+5492,Winner's Circle Robo Jockey's,2017,,Louisville,Kentucky,USA
+5528,Ultime,2017,4,Trois-Rivieres,Québec,Canada
+5590,Alumiboti,2017,10,Buffalo,New York,USA
+5667,The Digital Eagles,2017,4,New Albany,Ohio,USA
+5740,Trojanators,2016,7,Cranberry Township,Pennsylvania,USA
+5811,BONDS,2017,,Dayton,Ohio,USA
+5847,Ironclad,2018,,Bradley,Illinois,USA
+5881,TVHS Dragons,2018,7,Albany,New York,USA
+6032,Pirate Robotics,2018,1,Dayton,Ohio,USA
+6181,Cryptic Cyborgs,2019,2,Archbold,Ohio,USA
+6300,The Northwoodians,2019,,Lake Placid,New York,USA
+6353,EFZ Robotics,2019,2,Shanghai,Shanghai,China
+6421,WarriorBots,2019,,Muskego,Wisconsin,USA
+6621,Artemis,2020,,Chatham,New York,USA
+6806,Mineola Wild Reds,2020,7,Mineola,New York,USA
+6834,Bionic Warriors,2020,,Pataskala,Ohio,USA
+6868,Cadet Robotics,2020,2,Hilton,New York,USA
+6911,SO BOTZ,2020,9,Orangeburg,New York,USA
+6916,Iron Thunder,2020,,Columbus,Ohio,USA
+6964,BearBots (FRC),2021,9,Columbus,Ohio,USA
+7036,The Beta Bots,2021,2,Brooklyn,New York,USA
+7165,Perkins Pirates,2022,4,Sandusky,Ohio,USA
+7274,Brashear Bulls Robotics,2022,,Pittsburgh,Pennsylvania,USA
+7460,Avi and Friends,2022,4,Sylvania,Ohio,USA
+7497,MARAHO,2022,1,Taipei,Taipei Special Municipality,Chinese Taipei
+7515,Dark Side Robotics,2022,,Williamstown,West Virginia,USA
+7525,Pioneers,2022,,Nashville,Tennessee,USA
+7570,New Tech,2022,8,Zamosc,Lubelskie,Poland
+7636,Robomania,2022,,Daya Dist.,Taichung Municipality,Chinese Taipei
+7709,Formosa Pangolin,2023,9,Ban Qiao District,Taipei Special Municipality,Chinese Taipei
+7717,Steam Punks,2023,8,Santo Domingo,Distrito Nacional,Dominican Republic
+7885,Panther Tech,2023,,Elyria,Ohio,USA
+7903,Tigers,2023,,Rochester,New York,USA
+8037,VW Cougar Robotics,2023,10,Van Wert,Ohio,USA
+8096,Cache Money,2023,1,Chicago,Illinois,USA
+8140,RoboManiacs,2023,1,Cleveland,Ohio,USA
+8145,Tech Warriors,2023,,Cleveland,Ohio,USA
+8222,The Argonauts,2023,9,Cleveland,Ohio,USA
+8243,AstroCircuits,2023,,Cleveland,Ohio,USA
+8393,The Giant Diencephalic BrainSTEM Robotics Team,2024,2,Baden,Pennsylvania,USA
+8595,This Is How We Play,2024,2,Sanchong ;Dist.,New Taipei,Chinese Taipei
+8705,Sci Tech FRC,2024,4,Pittsburgh,Pennsylvania,USA
+8713,Nordonia Knights,2024,10,Macedonia,Ohio,USA
+8718,Tigerbotics,2024,,Warren,Ohio,USA
+8861,06ANGORA,2024,10,ANKARA,Ankara,Türkiye
+9004,Milliones Mega Mechatronic Wildcats,2024,,Pittsburgh,Pennsylvania,USA
+9022,MC Robotics,2024,10,Marion Center,Pennsylvania,USA
+9075,Redskin Robotics,2024,5,Wapakoneta,Ohio,USA
+9139,Reserve Robotics,2024,,Hudson,Ohio,USA
+9194,Gemin√-1s,2024,4,Kent,Ohio,USA
+9415,Westinghouse Robotics,2024,,Pittsburgh,Pennsylvania,USA
+9475,Mon Valley Mammoths,2024,,Monessen,Pennsylvania,USA
+9545,Caracal Robotics,2025,8,SARIYER,Istanbul,Türkiye
+9597,Luban Robotics,2025,2,Beijing,Beijing,China
+9622,GRIDLOCK,2025,,Cleveland,Ohio,USA
+9643,Lady Voltage,2025,10,Cleveland,Ohio,USA
+9653,O.V.R.T (Ohio Valley Robotics Team),2025,2,Steubenville,Ohio,USA
+9767,Magnificat MagnifiBots,2025,9,Rocky River,Ohio,USA
+10207,Doomsday Engineering,2025,,Findlay,Ohio,USA
+10208,Mayhem Manufacturing,2025,2,Findlay,Ohio,USA
+10223,Crimson Jewels,2025,6,Rochester,New York,USA
+10303,C-TEC Robotics,2025,,Newark,Ohio,USA
+10512,Beyond Grad Greyhounds,2025,9,Vanderbilt,Pennsylvania,USA
+10513,Team Humanity Robo Falcons,2025,10,Brownsville,Pennsylvania,USA
+10515,Aluminum Tethys,2025,9,Vanderbilt,Pennsylvania,USA
+10516,Code Red,2025,,Hermitage,Pennsylvania,USA
+10582,The Technochauns,2025,5,Youngstown,Ohio,USA

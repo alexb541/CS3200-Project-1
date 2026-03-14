@@ -1,0 +1,130 @@
+CREATE TABLE "Competition" (
+	"competitionID"	INTEGER,
+	"competitionName"	TEXT NOT NULL,
+	"week"	INTEGER NOT NULL,
+	"year"	INTEGER NOT NULL,
+	"city"	TEXT NOT NULL,
+	"state"	TEXT NOT NULL,
+	"country"	TEXT NOT NULL,
+	PRIMARY KEY("competitionID" AUTOINCREMENT)
+);
+
+CREATE TABLE "CompetitionGame" (
+	"competitionID"	INTEGER,
+	"gameName"	TEXT,
+	PRIMARY KEY("competitionID","gameName"),
+	FOREIGN KEY("competitionID") REFERENCES "Competition"("competitionID"),
+	FOREIGN KEY("gameName") REFERENCES "Game"("gameName")
+);
+
+CREATE TABLE "CompetitionRobot" (
+	"competitionID"	INTEGER,
+	"robotID"	INTEGER,
+	PRIMARY KEY("competitionID","robotID"),
+	FOREIGN KEY("competitionID") REFERENCES "Competition"("competitionID"),
+	FOREIGN KEY("robotID") REFERENCES "Robot"("robotID")
+);
+
+CREATE TABLE "Game" (
+	"gameName"	TEXT,
+	"theme"	TEXT NOT NULL,
+	"cargoCount"	INTEGER NOT NULL,
+	PRIMARY KEY("gameName")
+);
+
+CREATE TABLE "GamePickup" (
+	"gameName"	TEXT,
+	"ability"	TEXT,
+	PRIMARY KEY("gameName","ability"),
+	FOREIGN KEY("gameName") REFERENCES "Game"("gameName")
+);
+
+CREATE TABLE "GameScoring" (
+	"gameName"	TEXT,
+	"ability"	TEXT,
+	PRIMARY KEY("gameName","ability"),
+	FOREIGN KEY("gameName") REFERENCES "Game"("gameName")
+);
+
+CREATE TABLE "MatchPerformance" (
+	"matchID"	INTEGER,
+	"competitionID"	INTEGER NOT NULL,
+	"robotID"	INTEGER NOT NULL,
+	"match"	INTEGER NOT NULL,
+	"alliance"	TEXT NOT NULL,
+	"auto"	INTEGER NOT NULL,
+	"teleop"	INTEGER NOT NULL,
+	"endgame"	INTEGER NOT NULL,
+	"rankingPoints"	INTEGER NOT NULL,
+	"penaltyCard"	TEXT,
+	PRIMARY KEY("matchID" AUTOINCREMENT),
+	FOREIGN KEY("competitionID") REFERENCES "Competition"("competitionID"),
+	FOREIGN KEY("robotID") REFERENCES "Robot"("robotID"),
+	CONSTRAINT "chk_alliance" CHECK("alliance" IN ("Blue", "Red")),
+	CONSTRAINT "chk_penaltyCard" CHECK("penaltyCard" IS NULL OR "penaltyCard" IN ("Yellow", "Red"))
+);
+
+CREATE TABLE "Robot" (
+	"robotID"	INTEGER,
+	"gameName"	TEXT NOT NULL,
+	"teamNumber"	INTEGER NOT NULL,
+	"robotName"	TEXT,
+	"aprilTags"	TEXT NOT NULL,
+	"drivebase"	TEXT NOT NULL,
+	PRIMARY KEY("robotID" AUTOINCREMENT),
+	FOREIGN KEY("gameName") REFERENCES "Game"("gameName"),
+	FOREIGN KEY("teamNumber") REFERENCES "Team"("teamNumber"),
+	CONSTRAINT "chk_aprilTags" CHECK("aprilTags" IN ("Y", "N")),
+	UNIQUE("robotID", "gameName")
+);
+
+CREATE TABLE "RobotPickup" (
+	"robotID"	INTEGER,
+	"gameName"	TEXT,
+	"ability"	TEXT,
+	PRIMARY KEY("robotID","gameName","ability"),
+	FOREIGN KEY("gameName","ability") REFERENCES "GamePickup"("gameName","ability"),
+	FOREIGN KEY("robotID","gameName") REFERENCES "Robot"("robotID","gameName")
+);
+
+CREATE TABLE "RobotScoring" (
+	"robotID"	INTEGER,
+	"gameName"	TEXT,
+	"ability"	TEXT,
+	PRIMARY KEY("robotID","gameName","ability"),
+	FOREIGN KEY("gameName","ability") REFERENCES "GameScoring"("gameName","ability"),
+	FOREIGN KEY("robotID","gameName") REFERENCES "Robot"("robotID","gameName")
+);
+
+CREATE TABLE "SpecialEvent" (
+	"eventID"	INTEGER,
+	"matchID"	INTEGER NOT NULL,
+	"event"	TEXT NOT NULL,
+	PRIMARY KEY("eventID" AUTOINCREMENT),
+	FOREIGN KEY("matchID") REFERENCES "MatchPerformance"("matchID")
+);
+
+CREATE TABLE "Team" (
+	"teamNumber"	INTEGER,
+	"teamName"	TEXT,
+	"rookieYear"	INTEGER NOT NULL,
+	"pointsLevel" INTEGER,
+	"city"	TEXT NOT NULL,
+	"state"	TEXT NOT NULL,
+	"country"	TEXT NOT NULL,
+	PRIMARY KEY("teamNumber")
+);
+
+CREATE TABLE "TeamMember" (
+	"memberID"	INTEGER,
+	"teamNumber"	INTEGER NOT NULL,
+	"memberName"	TEXT NOT NULL,
+	"gradClass"	INTEGER,
+	"points"	INTEGER,
+	"subTeam"	TEXT,
+	"compJob"	TEXT,
+	"isMentor"	TEXT NOT NULL,
+	PRIMARY KEY("memberID" AUTOINCREMENT),
+	FOREIGN KEY("teamNumber") REFERENCES "Team"("teamNumber"),
+	CONSTRAINT "chk_isMentor" CHECK("isMentor" IN ("Y", "N"))
+);

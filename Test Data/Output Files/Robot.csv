@@ -1,0 +1,384 @@
+robotID,gameName,teamNumber,robotName,aprilTags,drivebase
+1,Charged Up,20,Thunderclap,Y,Mecanum
+2,Reefscape,20,Rampage,N,Swerve
+3,Crescendo,27,Iron Fury,Y,Mecanum
+4,Charged Up,48,Blitz,N,4-Wheel
+5,Crescendo,48,Vortex,Y,4-Wheel
+6,Reefscape,48,Titan,Y,4-Wheel
+7,Charged Up,59,Havoc,N,4-Wheel
+8,Charged Up,63,Phoenix,Y,Swerve
+9,Reefscape,63,Cyclone,N,4-Wheel
+10,Charged Up,117,Apex,Y,Swerve
+11,Crescendo,117,Rogue,N,Mecanum
+12,Reefscape,117,Inferno,N,Mecanum
+13,Charged Up,120,Tsunami,N,6-Wheel
+14,Crescendo,120,Bolt,Y,Swerve
+15,Reefscape,120,Phantom,Y,Mecanum
+16,Reefscape,128,Raptor,Y,4-Wheel
+17,Crescendo,144,Avalanche,Y,6-Wheel
+18,Charged Up,191,Eclipse,Y,Swerve
+19,Crescendo,191,Tempest,N,4-Wheel
+20,Reefscape,191,Surge,Y,4-Wheel
+21,Charged Up,229,Nova,Y,Mecanum
+22,Crescendo,229,Striker,Y,4-Wheel
+23,Reefscape,229,Cobalt,N,Mecanum
+24,Charged Up,250,Kraken,Y,Mecanum
+25,Reefscape,250,Spartan,Y,6-Wheel
+26,Charged Up,271,Nebula,Y,Mecanum
+27,Crescendo,271,Hydra,N,6-Wheel
+28,Reefscape,271,Zenith,Y,4-Wheel
+29,Charged Up,291,Ironclad,Y,Swerve
+30,Crescendo,291,Seraph,N,Swerve
+31,Reefscape,291,Banshee,N,Mecanum
+32,Crescendo,325,Goliath,Y,6-Wheel
+33,Crescendo,334,Warden,N,4-Wheel
+34,Charged Up,340,Mantis,Y,Mecanum
+35,Crescendo,340,Flux,Y,Mecanum
+36,Reefscape,340,Nimbus,N,4-Wheel
+37,Charged Up,378,Quasar,N,Swerve
+38,Crescendo,378,Onyx,N,4-Wheel
+39,Reefscape,378,Lynx,N,4-Wheel
+40,Charged Up,379,Aegis,Y,Swerve
+41,Crescendo,379,Cascade,N,Mecanum
+42,Reefscape,379,Brimstone,N,Swerve
+43,Charged Up,424,Sovereign,Y,6-Wheel
+44,Crescendo,424,Stinger,N,4-Wheel
+45,Reefscape,424,Maelstrom,N,Swerve
+46,Charged Up,451,Gargoyle,N,Mecanum
+47,Crescendo,451,Basilisk,N,Swerve
+48,Reefscape,451,Oracle,N,Swerve
+49,Charged Up,533,Sentry,Y,4-Wheel
+50,Crescendo,533,Riptide,N,Swerve
+51,Reefscape,533,Colossus,N,4-Wheel
+52,Crescendo,564,Mirage,Y,4-Wheel
+53,Reefscape,564,Valkyrie,N,6-Wheel
+54,Charged Up,578,Wraith,N,6-Wheel
+55,Crescendo,578,Talon,N,Mecanum
+56,Reefscape,578,Ember,Y,6-Wheel
+57,Charged Up,639,Frostbite,N,Mecanum
+58,Crescendo,639,Leviathan,N,6-Wheel
+59,Reefscape,639,Reaper,Y,4-Wheel
+60,Charged Up,677,Corsair,N,Mecanum
+61,Crescendo,677,Mammoth,N,4-Wheel
+62,Reefscape,677,Spectre,N,6-Wheel
+63,Crescendo,694,Juggernaut,N,Mecanum
+64,Reefscape,694,Monsoon,N,Mecanum
+65,Charged Up,695,Firefly,Y,4-Wheel
+66,Crescendo,695,Voltage,N,Swerve
+67,Reefscape,695,Barracuda,Y,4-Wheel
+68,Reefscape,709,Harbinger,Y,Mecanum
+69,Crescendo,870,Prowler,Y,Swerve
+70,Charged Up,930,Centurion,Y,Mecanum
+71,Charged Up,1126,Catalyst,N,Swerve
+72,Crescendo,1126,Mercury,N,6-Wheel
+73,Reefscape,1126,Warlock,Y,6-Wheel
+74,Charged Up,1308,Cerberus,N,6-Wheel
+75,Crescendo,1308,Shadow,Y,Mecanum
+76,Reefscape,1308,Grizzly,Y,Swerve
+77,Charged Up,1405,Falcon,N,Mecanum
+78,Crescendo,1405,Mjolnir,Y,6-Wheel
+79,Reefscape,1405,Nautilus,Y,Mecanum
+80,Charged Up,1450,Pulse,Y,6-Wheel
+81,Crescendo,1450,Scarab,Y,6-Wheel
+82,Crescendo,1468,Torrent,N,6-Wheel
+83,Charged Up,1493,Viper,N,6-Wheel
+84,Charged Up,1507,Gladiator,Y,6-Wheel
+85,Crescendo,1507,Marauder,N,4-Wheel
+86,Reefscape,1507,Polaris,Y,4-Wheel
+87,Charged Up,1511,Saber,N,Mecanum
+88,Crescendo,1511,Tundra,N,6-Wheel
+89,Reefscape,1511,Comet,Y,4-Wheel
+90,Charged Up,1518,Dynamo,Y,4-Wheel
+91,Crescendo,1518,Oblivion,N,4-Wheel
+92,Reefscape,1518,Fury,Y,Mecanum
+93,Charged Up,1551,Prism,Y,Mecanum
+94,Charged Up,1559,Viking,N,Mecanum
+95,Crescendo,1559,Zephyr,Y,Swerve
+96,Reefscape,1559,Arsenal,N,6-Wheel
+97,Charged Up,1585,Behemoth,N,6-Wheel
+98,Crescendo,1585,Charger,N,Swerve
+99,Reefscape,1585,Dominator,Y,6-Wheel
+100,Charged Up,1591,Exo,N,Swerve
+101,Crescendo,1591,Forge,N,6-Wheel
+102,Reefscape,1591,Granite,Y,4-Wheel
+103,Charged Up,1708,Hurricane,N,6-Wheel
+104,Crescendo,1708,Ion,N,Mecanum
+105,Reefscape,1708,Jaeger,N,Mecanum
+106,Charged Up,1781,Knightfall,N,6-Wheel
+107,Charged Up,1787,Lance,N,Swerve
+108,Crescendo,1787,Monarch,N,4-Wheel
+109,Reefscape,1787,Nexus,N,Mecanum
+110,Charged Up,2010,Outlaw,N,Mecanum
+111,Reefscape,2010,Pioneer,Y,6-Wheel
+112,Crescendo,2013,Quest,Y,Swerve
+113,Charged Up,2051,Rampart,N,Mecanum
+114,Charged Up,2053,Sentinel,N,Mecanum
+115,Crescendo,2053,Thunder,Y,4-Wheel
+116,Charged Up,2095,Uppercut,N,4-Wheel
+117,Reefscape,2095,Vector,Y,6-Wheel
+118,Charged Up,2172,Wolverine,N,4-Wheel
+119,Crescendo,2172,Xeno,N,4-Wheel
+120,Reefscape,2172,Yeti,N,4-Wheel
+121,Charged Up,2228,Zodiac,Y,6-Wheel
+122,Crescendo,2228,Atlas,Y,Swerve
+123,Reefscape,2228,Blaze,N,Mecanum
+124,Charged Up,2234,Chimera,Y,Swerve
+125,Reefscape,2234,Drifter,Y,Mecanum
+126,Charged Up,2252,Echo,Y,Swerve
+127,Crescendo,2252,Fireball,Y,Mecanum
+128,Reefscape,2252,Gust,Y,6-Wheel
+129,Charged Up,2340,Horizon,Y,Mecanum
+130,Crescendo,2340,Impulse,N,4-Wheel
+131,Reefscape,2340,Jolt,N,Mecanum
+132,Charged Up,2399,Kinetic,Y,Mecanum
+133,Crescendo,2399,Lancer,N,Swerve
+134,Reefscape,2399,Magma,Y,4-Wheel
+135,Charged Up,2603,Nitro,N,6-Wheel
+136,Crescendo,2603,Orbit,Y,Swerve
+137,Reefscape,2603,Patriot,Y,Swerve
+138,Crescendo,2614,Quake,N,Swerve
+139,Reefscape,2614,Razor,Y,4-Wheel
+140,Charged Up,2632,Scorch,N,4-Wheel
+141,Charged Up,2638,Trident,Y,4-Wheel
+142,Crescendo,2638,Unity,Y,6-Wheel
+143,Reefscape,2638,Vandal,N,Swerve
+144,Crescendo,2641,Warthog,N,4-Wheel
+145,Reefscape,2641,Xerxes,N,Mecanum
+146,Charged Up,2656,Yankee,N,Mecanum
+147,Crescendo,2656,Zinc,N,6-Wheel
+148,Reefscape,2656,Alpha,N,6-Wheel
+149,Charged Up,2783,Bravo,N,4-Wheel
+150,Charged Up,2791,Charlie,Y,Swerve
+151,Reefscape,2791,Delta,N,6-Wheel
+152,Charged Up,2872,Foxtrot,Y,6-Wheel
+153,Charged Up,3003,Golf,N,4-Wheel
+154,Crescendo,3003,Hotel,Y,6-Wheel
+155,Reefscape,3003,India,N,Mecanum
+156,Reefscape,3004,Juliet,N,Mecanum
+157,Charged Up,3015,Kilo,N,4-Wheel
+158,Crescendo,3015,Lima,N,4-Wheel
+159,Reefscape,3015,Mike,N,Swerve
+160,Charged Up,3044,November,Y,Swerve
+161,Crescendo,3044,Oscar,Y,6-Wheel
+162,Reefscape,3044,Papa,N,Mecanum
+163,Charged Up,3117,Quebec,N,6-Wheel
+164,Crescendo,3117,Romeo,N,Swerve
+165,Crescendo,3138,Sierra,Y,4-Wheel
+166,Charged Up,3171,Tango,Y,6-Wheel
+167,Reefscape,3171,Uniform,Y,4-Wheel
+168,Charged Up,3173,Victor,N,6-Wheel
+169,Crescendo,3173,Whiskey,N,6-Wheel
+170,Reefscape,3173,Xray,N,4-Wheel
+171,Charged Up,3181,Zulu,N,4-Wheel
+172,Crescendo,3181,Artemis,N,4-Wheel
+173,Reefscape,3181,Boomer,Y,Swerve
+174,Charged Up,3193,Cinder,Y,4-Wheel
+175,Crescendo,3193,Draco,Y,Mecanum
+176,Reefscape,3193,Electra,Y,Mecanum
+177,Charged Up,3201,Fenrir,N,4-Wheel
+178,Crescendo,3201,Glacier,N,Swerve
+179,Charged Up,3260,Helios,Y,4-Wheel
+180,Crescendo,3260,Icarus,Y,4-Wheel
+181,Reefscape,3260,Jaguar,Y,4-Wheel
+182,Charged Up,3324,Kodiak,Y,Mecanum
+183,Charged Up,3360,Loki,N,Swerve
+184,Charged Up,3484,Magnus,Y,4-Wheel
+185,Crescendo,3484,Neptune,Y,6-Wheel
+186,Reefscape,3484,Odin,Y,Swerve
+187,Crescendo,3492,Perseus,N,6-Wheel
+188,Reefscape,3492,Quantum,N,6-Wheel
+189,Charged Up,3504,Ragnarok,N,Mecanum
+190,Crescendo,3504,Solaris,Y,4-Wheel
+191,Reefscape,3504,Thor,N,Swerve
+192,Reefscape,3539,Ursa,Y,6-Wheel
+193,Charged Up,3550,Vesper,N,Swerve
+194,Charged Up,3777,Wyvern,Y,Mecanum
+195,Crescendo,3777,Xion,Y,4-Wheel
+196,Reefscape,3777,Yggdrasil,Y,Mecanum
+197,Charged Up,3799,Zeus,Y,6-Wheel
+198,Crescendo,3799,Thunderclap,Y,6-Wheel
+199,Reefscape,3799,Rampage,N,6-Wheel
+200,Charged Up,3814,Iron Fury,N,6-Wheel
+201,Charged Up,3838,Blitz,N,Swerve
+202,Crescendo,3838,Vortex,Y,Mecanum
+203,Reefscape,3838,Titan,Y,4-Wheel
+204,Charged Up,3951,Havoc,Y,Mecanum
+205,Crescendo,3951,Phoenix,Y,Mecanum
+206,Reefscape,3951,Cyclone,Y,Mecanum
+207,Charged Up,3954,Apex,Y,6-Wheel
+208,Crescendo,3954,Rogue,N,6-Wheel
+209,Reefscape,3954,Inferno,N,Swerve
+210,Reefscape,3984,Tsunami,Y,4-Wheel
+211,Charged Up,3990,Bolt,N,6-Wheel
+212,Charged Up,4027,Phantom,Y,Mecanum
+213,Crescendo,4027,Raptor,N,Mecanum
+214,Reefscape,4027,Avalanche,N,Swerve
+215,Charged Up,4028,Eclipse,Y,Mecanum
+216,Charged Up,4050,Tempest,N,Mecanum
+217,Crescendo,4050,Surge,Y,Swerve
+218,Reefscape,4050,Nova,Y,4-Wheel
+219,Charged Up,4085,Striker,N,6-Wheel
+220,Crescendo,4085,Cobalt,Y,6-Wheel
+221,Reefscape,4085,Kraken,N,6-Wheel
+222,Charged Up,4093,Spartan,N,6-Wheel
+223,Crescendo,4093,Nebula,N,Swerve
+224,Charged Up,4121,Hydra,Y,6-Wheel
+225,Crescendo,4121,Zenith,N,4-Wheel
+226,Reefscape,4121,Ironclad,Y,Swerve
+227,Reefscape,4122,Seraph,Y,Swerve
+228,Charged Up,4145,Banshee,N,Swerve
+229,Crescendo,4145,Goliath,Y,6-Wheel
+230,Reefscape,4145,Warden,N,4-Wheel
+231,Charged Up,4150,Mantis,Y,6-Wheel
+232,Crescendo,4150,Flux,N,Swerve
+233,Reefscape,4150,Nimbus,N,4-Wheel
+234,Charged Up,4269,Quasar,N,4-Wheel
+235,Reefscape,4269,Onyx,N,Swerve
+236,Crescendo,4327,Lynx,Y,4-Wheel
+237,Crescendo,4458,Aegis,N,6-Wheel
+238,Charged Up,4467,Cascade,N,6-Wheel
+239,Crescendo,4467,Brimstone,Y,6-Wheel
+240,Reefscape,4467,Sovereign,Y,4-Wheel
+241,Crescendo,4504,Stinger,N,4-Wheel
+242,Charged Up,4601,Maelstrom,Y,6-Wheel
+243,Crescendo,4601,Gargoyle,Y,6-Wheel
+244,Reefscape,4601,Basilisk,N,Swerve
+245,Charged Up,4611,Oracle,Y,4-Wheel
+246,Crescendo,4611,Sentry,N,6-Wheel
+247,Reefscape,4611,Riptide,Y,Mecanum
+248,Charged Up,4930,Colossus,N,Mecanum
+249,Crescendo,4930,Mirage,N,6-Wheel
+250,Reefscape,4930,Valkyrie,N,Swerve
+251,Charged Up,4991,Wraith,Y,Mecanum
+252,Crescendo,4991,Talon,Y,4-Wheel
+253,Reefscape,4991,Ember,Y,6-Wheel
+254,Charged Up,5413,Frostbite,Y,Mecanum
+255,Crescendo,5413,Leviathan,Y,6-Wheel
+256,Reefscape,5413,Reaper,Y,Mecanum
+257,Crescendo,5492,Corsair,N,4-Wheel
+258,Charged Up,5528,Mammoth,N,6-Wheel
+259,Crescendo,5528,Spectre,N,6-Wheel
+260,Charged Up,5590,Juggernaut,Y,6-Wheel
+261,Reefscape,5590,Monsoon,Y,6-Wheel
+262,Charged Up,5667,Firefly,Y,Mecanum
+263,Crescendo,5667,Voltage,Y,4-Wheel
+264,Reefscape,5667,Barracuda,N,4-Wheel
+265,Charged Up,5740,Harbinger,N,Swerve
+266,Crescendo,5740,Prowler,N,4-Wheel
+267,Reefscape,5740,Centurion,N,Mecanum
+268,Crescendo,5811,Catalyst,N,6-Wheel
+269,Charged Up,5847,Mercury,N,4-Wheel
+270,Reefscape,5881,Warlock,N,6-Wheel
+271,Charged Up,6032,Cerberus,N,Mecanum
+272,Charged Up,6181,Shadow,Y,6-Wheel
+273,Crescendo,6181,Grizzly,Y,6-Wheel
+274,Reefscape,6181,Falcon,Y,4-Wheel
+275,Charged Up,6300,Mjolnir,N,6-Wheel
+276,Crescendo,6300,Nautilus,N,Mecanum
+277,Crescendo,6353,Pulse,N,Swerve
+278,Charged Up,6421,Scarab,Y,4-Wheel
+279,Charged Up,6621,Torrent,Y,6-Wheel
+280,Crescendo,6621,Viper,Y,6-Wheel
+281,Reefscape,6621,Gladiator,Y,Mecanum
+282,Charged Up,6806,Marauder,N,Mecanum
+283,Crescendo,6834,Polaris,Y,6-Wheel
+284,Reefscape,6834,Saber,N,4-Wheel
+285,Charged Up,6868,Tundra,N,Swerve
+286,Crescendo,6868,Comet,N,6-Wheel
+287,Reefscape,6868,Dynamo,N,6-Wheel
+288,Crescendo,6911,Oblivion,Y,Swerve
+289,Reefscape,6911,Fury,Y,4-Wheel
+290,Charged Up,6916,Prism,Y,Swerve
+291,Charged Up,6964,Viking,N,Swerve
+292,Crescendo,6964,Zephyr,Y,6-Wheel
+293,Reefscape,6964,Arsenal,Y,4-Wheel
+294,Crescendo,7036,Behemoth,Y,Swerve
+295,Charged Up,7165,Charger,N,Swerve
+296,Crescendo,7165,Dominator,N,4-Wheel
+297,Reefscape,7165,Exo,N,6-Wheel
+298,Charged Up,7274,Forge,Y,Mecanum
+299,Crescendo,7274,Granite,N,Mecanum
+300,Reefscape,7274,Hurricane,Y,Mecanum
+301,Charged Up,7460,Ion,Y,6-Wheel
+302,Crescendo,7460,Jaeger,Y,6-Wheel
+303,Reefscape,7497,Knightfall,Y,Mecanum
+304,Charged Up,7515,Lance,N,4-Wheel
+305,Crescendo,7515,Monarch,N,4-Wheel
+306,Reefscape,7515,Nexus,Y,6-Wheel
+307,Crescendo,7525,Outlaw,N,Mecanum
+308,Charged Up,7570,Pioneer,Y,6-Wheel
+309,Charged Up,7636,Quest,N,4-Wheel
+310,Crescendo,7709,Rampart,N,4-Wheel
+311,Reefscape,7717,Sentinel,N,4-Wheel
+312,Charged Up,7885,Thunder,Y,6-Wheel
+313,Crescendo,7885,Uppercut,N,Swerve
+314,Reefscape,7885,Vector,Y,6-Wheel
+315,Charged Up,7903,Wolverine,N,4-Wheel
+316,Crescendo,7903,Xeno,N,Swerve
+317,Reefscape,7903,Yeti,N,4-Wheel
+318,Charged Up,8037,Zodiac,Y,Swerve
+319,Charged Up,8096,Atlas,N,4-Wheel
+320,Crescendo,8096,Blaze,Y,4-Wheel
+321,Charged Up,8140,Chimera,Y,Mecanum
+322,Crescendo,8140,Drifter,N,Mecanum
+323,Reefscape,8140,Echo,Y,Swerve
+324,Charged Up,8145,Fireball,N,6-Wheel
+325,Crescendo,8145,Gust,Y,4-Wheel
+326,Reefscape,8145,Horizon,Y,Swerve
+327,Charged Up,8222,Impulse,N,4-Wheel
+328,Crescendo,8222,Jolt,N,Mecanum
+329,Reefscape,8222,Kinetic,Y,Mecanum
+330,Charged Up,8243,Lancer,N,4-Wheel
+331,Crescendo,8243,Magma,Y,4-Wheel
+332,Reefscape,8243,Nitro,N,4-Wheel
+333,Charged Up,8393,Orbit,N,Swerve
+334,Crescendo,8393,Patriot,N,Swerve
+335,Reefscape,8393,Quake,Y,Mecanum
+336,Crescendo,8595,Razor,N,4-Wheel
+337,Charged Up,8705,Scorch,Y,6-Wheel
+338,Crescendo,8705,Trident,Y,4-Wheel
+339,Reefscape,8705,Unity,Y,6-Wheel
+340,Charged Up,8713,Vandal,N,4-Wheel
+341,Crescendo,8713,Warthog,N,4-Wheel
+342,Reefscape,8713,Xerxes,Y,Mecanum
+343,Charged Up,8718,Yankee,N,Swerve
+344,Crescendo,8718,Zinc,N,Mecanum
+345,Reefscape,8718,Alpha,Y,6-Wheel
+346,Charged Up,8861,Bravo,N,6-Wheel
+347,Charged Up,9004,Charlie,Y,Mecanum
+348,Crescendo,9004,Delta,Y,Swerve
+349,Reefscape,9004,Foxtrot,N,6-Wheel
+350,Charged Up,9022,Golf,Y,Swerve
+351,Crescendo,9022,Hotel,Y,Mecanum
+352,Reefscape,9022,India,N,6-Wheel
+353,Charged Up,9075,Juliet,N,6-Wheel
+354,Crescendo,9075,Kilo,Y,6-Wheel
+355,Charged Up,9139,Lima,Y,6-Wheel
+356,Crescendo,9139,Mike,N,4-Wheel
+357,Reefscape,9139,November,Y,4-Wheel
+358,Charged Up,9194,Oscar,Y,6-Wheel
+359,Crescendo,9194,Papa,N,Mecanum
+360,Reefscape,9194,Quebec,N,Swerve
+361,Crescendo,9415,Romeo,N,4-Wheel
+362,Reefscape,9415,Sierra,Y,6-Wheel
+363,Crescendo,9475,Tango,N,Mecanum
+364,Reefscape,9475,Uniform,Y,6-Wheel
+365,Reefscape,9545,Victor,Y,Mecanum
+366,Crescendo,9597,Whiskey,Y,Swerve
+367,Crescendo,9622,Xray,N,Mecanum
+368,Reefscape,9622,Zulu,Y,Mecanum
+369,Crescendo,9643,Artemis,Y,Mecanum
+370,Reefscape,9643,Boomer,Y,Mecanum
+371,Crescendo,9653,Cinder,N,Mecanum
+372,Reefscape,9653,Draco,Y,4-Wheel
+373,Crescendo,9767,Electra,Y,Mecanum
+374,Reefscape,9767,Fenrir,N,Mecanum
+375,Reefscape,10207,Glacier,Y,Swerve
+376,Reefscape,10208,Helios,Y,Swerve
+377,Reefscape,10223,Icarus,N,Mecanum
+378,Reefscape,10303,Jaguar,N,Swerve
+379,Reefscape,10512,Kodiak,Y,4-Wheel
+380,Reefscape,10513,Loki,Y,Mecanum
+381,Reefscape,10515,Magnus,N,Swerve
+382,Reefscape,10516,Neptune,Y,6-Wheel
+383,Reefscape,10582,Odin,N,4-Wheel

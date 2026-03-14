@@ -1,0 +1,7 @@
+I used Claude Opus 4.6 Extended Thinking to generate realistic test data considering all constraints. I thought that this was the best way to generate data for my database given the complex nature of the schema and realistic depth to the constraints because it is closely modeled after FRC. The chat log is attached in this folder (Test Data), and the final output was the 13 csv files included in the Output Files folder. Each of these csv files corresponds to a table in DB browser/the ERD. To get the data into the actual tables in DB browser, I imported each csv into a new table and used sql insert into commands to insert all data from each new table into its corresponding previously created table.
+
+The csv files in Schedules and Teams were retrieved by me from https://www.thebluealliance.com/.
+
+Each csv file in Schedules corresponds to this schema: match_key,scheduled_date,scheduled_time,comp_level,match_number,set_number,red1,red2,red3,blue1,blue2,blue3,red_score,blue_score and there is one for 3 different competitions (Buckeye Regional, Finger Lakes Regional, Greater Pittsburgh Regional) across 3 different years (2023, 2024, 2025).
+
+This is the same for Teams, but the schema is: team_number,team_name,city,state_prov,country,robot_image_url
